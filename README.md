@@ -27,10 +27,7 @@
   <p align="center">
      A Flutter-based app that provides Face-to-face virtual interviews with AI Interviewer by Recording user's voice and actions through device sensors. In the end, it provides an in-depth report of the interview by applying ingenious AI Prompting on Chat GPT - 3.5.
     <br/>
-    <a href="https://github.com/OracleYT/aihire-demo"><strong>Explore the docs »</strong></a>
     <br />
-    <br />
-    <a href="https://youtube.com/shorts/lUUmg6Krxqs">View Demo Video</a>
     ·
      <!--
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
