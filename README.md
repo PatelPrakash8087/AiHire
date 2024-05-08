@@ -104,10 +104,7 @@ The AI-enhanced virtual Interview Platform is designed to **revolutionize** the 
 <!-- CONTACT -->
 ## Contact
 
-**Bhargav Singh Barad** - [@linkedin](https://www.linkedin.com/in/bhargav-singh-barad/) - bhargavsinghbarad007@gmail.com
-
-Project Demo Link: [Video Demo](https://youtube.com/playlist?list=PLpSi8Gwi0z9nyUyJVV74FNBRccZhwmUbg)
-
+## Prakash Patel - [@linkedin](https://www.linkedin.com/in/prakash-patell/) - patelprakash8087@gmail.
 
 ### !NO SOURCE CODE(CAN BE USED BY OTHERS IF DECLARED)
 
